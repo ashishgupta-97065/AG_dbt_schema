@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: public
+    tables:
+      - name: test
+  - name: elap
+    tables:
+      - name: elap_company_user_heirarchies
+      - name: elap_retailer_notifications
+      - name: elap_user_company
+      - name: elap_user_user
